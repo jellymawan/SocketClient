@@ -11,4 +11,5 @@ Demonstrate that it works by connecting to:
 - server djxmmx.net / port 17 (Quote of the Day service)
 - server time.nist.gov / port 13 (Date-and-Time service)
 - server tcpbin.com / port 4242 or 34.230.40.69 / port 30000 (Echo service)
+
 In each case, capture the shell session in a video or text file, and put those files into the GitHub repository containing your code.
